@@ -9,6 +9,7 @@ Cadastro Buyer
 Cadastro Client
 Gerar pagamento
 Pegar pagamento pelo ID
+
 ⚙️ Funções e regras de negócio desenvolvidas:
 Fiz os testes com JEST para elaboração dos endpoints, padronizando as entradas e saídas do projeto.
 Utilizei o MySQL como Banco de Dados.
