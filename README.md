@@ -29,3 +29,7 @@ Express;
 Knex;
 Cors;
 UUID.
+
+## 👩🏻‍💻 Desenvolvedora
+[<img src="https://avatars.githubusercontent.com/u/99182969?v=4" width=115><br><sub>Lis Fernanda Ribeiro dos Santos</sub>](https://github.com/lisfribeiro) |
+| :---: |
